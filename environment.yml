@@ -1,0 +1,40 @@
+name: pyclass
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.11
+  - numpy
+  - scipy
+  - matplotlib-base
+  - jupyter
+  - jupyterlab
+  - pandas
+  - scikit-learn
+  - requests
+  - tqdm
+  - cartopy
+  - shapely
+  - aiohttp
+  - rich
+  - vpython
+  - networkx
+  - pygraphviz
+  # extended (labs)
+  - descartes
+  - fiona
+  - skyfield
+  - zeep
+  - traffic
+  - flask
+  - flask_cors
+  - textual
+  - waitress
+  # style
+  - black
+  - nb_black
+  - ruff
+  - mypy
+  # stubs for typing
+  - pandas-stubs
+  - tensorflow
+  - keras
