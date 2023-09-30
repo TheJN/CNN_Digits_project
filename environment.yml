@@ -37,4 +37,3 @@ dependencies:
   # stubs for typing
   - pandas-stubs
   - tensorflow
-  - keras
