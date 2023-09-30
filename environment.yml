@@ -1,4 +1,4 @@
-name: pyclass
+name: CNN_Digits_project
 channels:
   - conda-forge
 dependencies:
